@@ -1,0 +1,12 @@
+La commande pour faire un git clone est :
+
+-git clone [notre lien github]
+
+
+Les 3 commande pour push sont :
+
+-git add [nom du fichier]
+
+-git commit -m [Message]
+
+-git push
